@@ -1,8 +1,8 @@
-<h1 align="center"> Hello there! 👋 I'm Anant </h1>
+<h1 align="center"> Hello there! 👋🏻 I'm Anant </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ananttater&label=Profile%20views&color=0e75b6&style=flat" alt="ananttater" /> </p>
 
-## Welcome to my GitHub profile!
+<h1 align="center"> Welcome to my GitHub profile! </h1>
 
 I'm a MERN stack developer and AI/ML enthusiast currently in my final year of college. I love to solve complex problems, design intuitive user interfaces, and build scalable web applications. 
 In addition to my academic pursuits, I also spend my time practicing programming on LeetCode and GeeksforGeeks.
@@ -43,7 +43,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [VIT, Chenn
 
 ## 💬 Let's Connect
 
-I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out to me at ananttater@gmail.com.
+I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out to me at 👉🏻 ananttater@gmail.com.
 
 ## 🤝🏻 Socials
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/ananttater/)
@@ -52,5 +52,7 @@ I'm always interested in collaborating on exciting projects or discussing new id
 
 I'm looking forward to connecting with fellow developers. Let's build amazing things together! 😄
 
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananttater&theme=discord&row=2&column=3" alt="Anant Tater"></a></p>
+
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttater&theme=solarized_dark"  display=block width=100% height=auto alt="1"> -->
-![trophy](https://github-profile-trophy.vercel.app/?username=ananttater&title=Stars,Commit,PR,Repo,Issue,Followers&column=3&margin-w=15&margin-h=15&theme=discord)
