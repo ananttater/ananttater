@@ -43,14 +43,17 @@ I'm currently pursuing my Bachelor's degree in Computer Science from [VIT, Chenn
 
 ## 💬 Let's Connect
 
-I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out to me.
+I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out to me at [📨](mailto:ananttater@gmail.com).
 
 ## 🤝🏻 Socials
-- **Email**: ananttater@gmail.com
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/ananttater/)
 - **gfgPractice**: [Click Here](https://auth.geeksforgeeks.org/user/ananttater)
 - **Portfolio**: [Comming Soon..]
 
 I'm looking forward to connecting with fellow developers. Let's build amazing things together! 😄
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ananttater)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttater&theme=solarized_dark"  display=block width=100% height=auto alt="1"> -->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ananttater&title=Stars,Commit,PR&column=3&margin-w=15&margin-h=15&theme=discord)
