@@ -34,12 +34,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## 📚 Education
 
-I'm currently pursuing my Bachelor's degree in Computer Science from [VIT, Chennai](https://chennai.vit.ac.in/). Here are some of the courses I've taken:
-
-- Data Structures and Algorithms
-- Database Systems
-- Artificial Intelligence
-- Web Development
+I'm currently pursuing my Bachelor's degree in Computer Science from [VIT, Chennai](https://chennai.vit.ac.in/).
 
 ## 💬 Let's Connect
 
