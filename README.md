@@ -41,7 +41,7 @@ I'm always interested in collaborating on exciting projects or discussing new id
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/ananttater/)
 - **Leetcode**: [Click Here](https://leetcode.com/ananttater/)
 - **gfgPractice**: [Click Here](https://auth.geeksforgeeks.org/user/ananttater)
-- **Portfolio**: [Comming Soon..]
+- **Portfolio**: [✨ Click Here ✨](ananttater.vercel.app/)
 
 I'm looking forward to connecting with fellow developers. Let's build amazing things together! 😄
 
